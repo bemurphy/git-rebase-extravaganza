@@ -7,3 +7,4 @@ Adding a line in master, which I will rebase onto in feature
 another line in bar:master
 adding another line
 yet another line in foo:master
+adding another line
