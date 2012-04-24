@@ -10,3 +10,4 @@ yet another line in foo:master
 adding another line
 yet another line in foo:master
 adding another line
+yet another line in foo:master
