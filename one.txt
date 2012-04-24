@@ -1,4 +1,5 @@
 foo a
+another wild line appears in bar!
 foo b
 a wild line appears!
 foo c
