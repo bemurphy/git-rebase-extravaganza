@@ -1,3 +1,4 @@
 foo a
 foo b
+a wild line appears!
 foo c
