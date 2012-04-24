@@ -1,3 +1,4 @@
 foo a
 foo b
 foo c
+Adding a line in master, which I will rebase onto in feature
