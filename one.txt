@@ -3,3 +3,4 @@ foo b
 foo c
 Adding a line in master, which I will rebase onto in feature
 another line in bar:master
+yet another line in foo:master
