@@ -4,3 +4,4 @@ foo b
 a wild line appears!
 foo c
 Adding a line in master, which I will rebase onto in feature
+another line in bar:master
